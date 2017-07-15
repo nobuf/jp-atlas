@@ -1,6 +1,6 @@
 # Japan Atlas TopoJSON
 
-This repository provides a simple script to generate TopoJSON files from [MILT of Japan](http://www.mlit.go.jp/)'s National Land Numerical Information download service.
+This repository provides a simple script to generate TopoJSON files from [MLIT of Japan](http://www.mlit.go.jp/)'s National Land Numerical Information download service.
 
 ## Usage
 
