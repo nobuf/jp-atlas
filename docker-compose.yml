@@ -1,0 +1,12 @@
+version: '3'
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app:cached
+    environment:
+      # Read the license and figure out the endpoint
+      # There must be a placeholder for prefecture id: `..._%02d_GML.zip`
+      # http://nlftp.mlit.go.jp/ksj-e/gml/datalist/KsjTmplt-N03-v2_3.html
+      MLIT_GO_JP_ENDPOINT: $MLIT_GO_JP_ENDPOINT
+      TARGET_YEAR: $TARGET_YEAR

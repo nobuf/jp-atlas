@@ -1,0 +1,18 @@
+{
+  "name": "jp-atlas",
+  "version": "0.0.1",
+  "description": "A simple script to generate TopoJSON files from MILT of Japan.",
+  "main": "build.sh",
+  "dependencies": {
+    "@mapbox/geojson-merge": "^1.0.2",
+    "ndjson-cli": "^0.3.1",
+    "shapefile": "^0.6.2",
+    "topojson": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "prepare": "bash build.sh"
+  },
+  "author": "Nobu Funaki",
+  "license": "MIT"
+}

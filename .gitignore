@@ -1,0 +1,5 @@
+node_modules
+.idea
+jp
+tmp/*
+npm-debug.log
