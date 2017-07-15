@@ -11,6 +11,12 @@ See [jp-atlas-example](https://nobuf.github.io/jp-atlas-example/) and [bl.ocks.o
 - [japan-2017-topo.json](https://unpkg.com/jp-atlas/jp/japan-2017-topo.json)
 - [japan-2017-topo.low.json](https://unpkg.com/jp-atlas/jp/japan-2017-topo.low.json)
 
+[Please accept MLIT's policy](http://nlftp.mlit.go.jp/ksj-e/gml/datalist/KsjTmplt-N03-v2_3.html):
+
+> Approval to be obtained from the Geographical Survey Institute Head in order to reproduce this data.
+> Acceptance and acknowledgment of [About National Land Numerical Information download service]
+> The source of the data [digital national land information] and name of the parties processing the data is indicated.
+
 ## Build
 
 ```shell
