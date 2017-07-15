@@ -1,6 +1,6 @@
 {
   "name": "jp-atlas",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple script to generate TopoJSON files from MILT of Japan.",
   "main": "build.sh",
   "dependencies": {
