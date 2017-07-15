@@ -8,7 +8,8 @@ See [jp-atlas-example](https://nobuf.github.io/jp-atlas-example/) and [bl.ocks.o
 
 ## Download
 
-WIP
+- [japan-2017-topo.json](https://unpkg.com/jp-atlas/jp/japan-2017-topo.json)
+- [japan-2017-topo.low.json](https://unpkg.com/jp-atlas/jp/japan-2017-topo.low.json)
 
 ## Build
 
